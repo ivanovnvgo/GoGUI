@@ -5,6 +5,14 @@
 *.so
 *.dylib
 
+*.tar.xz
+
+user.txt
+info.txt
+myNotes.txt
+created.txt
+createdFile.txt
+
 # Test binary, built with `go test -c`
 *.test
 
@@ -13,6 +21,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
 .idea
-myNotes.txt
+
 build/
+
+usr/
